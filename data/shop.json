@@ -1,0 +1,16 @@
+[
+    {
+        "displayName": "Grass",
+        "cost": 20,
+        "type": "special",
+        "name": "grass",
+        "description": "A grass patch that\nwill create some\npoints"
+    },
+    {
+        "displayName": "Test Tree",
+        "cost": 130,
+        "type": "trees",
+        "name": "SimpleTree",
+        "description": "Test description"
+    }
+]

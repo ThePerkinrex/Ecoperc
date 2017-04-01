@@ -1,0 +1,12 @@
+{
+  "entities": [{
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "model": "models/trees/SimpleTree.dae",
+    "UUID": "54d9f94a-a5a1-41b7-90ec-9aa491e56461"
+  }],
+  "points": 1000
+}
